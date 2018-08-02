@@ -1,0 +1,15 @@
+Blog:
+
+Rules:
+7 days to for a complete one blog 
+	5 days for writing a blog.
+	2 days for revising that blog.
+	On 7th day, published that blog.
+
+Create a repository in Github: It will contain folder for each topic which consists of 
+	one markdown file about it. 
+	one text or word file of its initial draft.
+	one folder consisting of images or gifs.
+
+Create an excel sheet for topics.
+
